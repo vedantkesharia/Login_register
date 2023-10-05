@@ -10,7 +10,7 @@ function Register() {
       backgroundPosition: 'center', 
     }}>
       {/* <div className="bg-white backdrop-blur-sm bg-opacity-60 p-8 rounded-lg shadow-lg opacity-90 w-96 text-center"> */}
-      <div className="backdrop-blur-sm bg-white/60 p-8 rounded-lg shadow-lg opacity-90 w-96">
+      <div className="backdrop-blur-sm bg-white/60 p-8 rounded-lg shadow-lg opacity-90 w-96 text-center">
         <h2 className="text-2xl font-semibold mb-4">Register</h2>
         <form className="text-left">
           <div className="mb-4">

@@ -4,7 +4,7 @@ import loginImage from "../img/background_login.jpg";
 
 function Login() {
   return (
-    <div className=" min-h-screen flex items-center justify-center" style={{
+    <div className="min-h-screen flex items-center justify-center" style={{
       backgroundImage: `url(${loginImage})`,
       backgroundSize: 'cover', 
       backgroundPosition: 'center', 
